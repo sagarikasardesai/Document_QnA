@@ -1,0 +1,9 @@
+openai
+streamlit
+langchain==0.0.262
+langchain-openai 
+langchain-community
+langchain-groq
+langchain-core
+python-dotenv
+langchain-text-splitters
