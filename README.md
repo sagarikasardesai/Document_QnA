@@ -2,7 +2,7 @@
 
 PDF Document Q&A Chatbot Application using Langchain, Groq API and Llama3 LLM model to query the documents.
 
-## The documents used can be found here:
+## The documents stored in 'files' can be found here:
 
 ICD 10 Coding Guidelines
 https://www.cms.gov/files/document/fy-2024-icd-10-cm-coding-guidelines-updated-02/01/2024.pdf
