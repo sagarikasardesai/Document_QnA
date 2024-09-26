@@ -2,6 +2,8 @@
 
 PDF Document Q&A Chatbot Application using Langchain, Groq API and Llama3 LLM model to query the documents.
 
+![7](https://github.com/user-attachments/assets/302423bf-8588-4780-bb0c-2cc9bd88c53b)
+
 ## The documents stored in 'files' can be found here:
 
 ICD 10 Coding Guidelines
