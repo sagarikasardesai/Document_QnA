@@ -1,6 +1,6 @@
 # Document_QnA
 
-PDF Document Q&A Chatbot Application using Langchain, Groq API and Llama3 LLM model to query the documents.
+Q&A Chatbot Application using **Langchain, Groq API and Llama3 LLM** model, to query PDF documents.
 
 ![7](https://github.com/user-attachments/assets/302423bf-8588-4780-bb0c-2cc9bd88c53b)
 
